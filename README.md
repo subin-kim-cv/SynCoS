@@ -6,11 +6,55 @@
 [Joon-Young Lee<sup>2</sup>](https://joonyoung-cv.github.io/), 
 [Jinwoo Shin<sup>1](https://alinlab.kaist.ac.kr/shin.html)**
 
+
 <br>
 <sup>1</sup>KAIST
 <sup>2</sup>Adobe Research
 
 
-<br>
 <a href='https://arxiv.org/abs/2503.08605'><img src='https://img.shields.io/badge/ArXiv-2503.08605-red'></a> 
 <a href='https://syncos2025.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+
+### Object motion control
+[![gorilla](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/gorilla.png)](https://github.com/subin-kim-cv/SyncoS/assets/gorilla.mp4)
+[![Jamaican](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/jamaican.png)](https://github.com/subin-kim-cv/SyncoS/assets/jamaican.mp4)
+
+### Cinematic effects
+[![figure](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/figure.png)](https://github.com/subin-kim-cv/SyncoS/assets/figure.mp4)
+
+[![apple](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/apple.png)](https://github.com/subin-kim-cv/SyncoS/assets/apple.mp4)
+
+[![astronaut](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/astronaut.png)](https://github.com/subin-kim-cv/SyncoS/assets/astronaut.mp4)
+
+### Physical transformations
+[![candle](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/candle.png)](https://github.com/subin-kim-cv/SyncoS/assets/candle.mp4)
+
+### Background changes
+[![butterfly](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/butterfly.png)](https://github.com/subin-kim-cv/SyncoS/assets/butterfly.mp4)
+
+[![city](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/city.png)](https://github.com/subin-kim-cv/SyncoS/assets/city.mp4)
+
+[![surfing](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/surfing.png)](https://github.com/subin-kim-cv/SyncoS/assets/surfing.mp4)
+
+
+### Storytelling
+[![bear](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/bear.png)](https://github.com/subin-kim-cv/SyncoS/assets/bear.mp4)
+
+
+
+### Camera control
+[![beach](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/beach.png)](https://github.com/subin-kim-cv/SyncoS/assets/beach.mp4)
+
+
+### Compositional generation
+[![squirrel](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/squirrel.png)](https://github.com/subin-kim-cv/SyncoS/assets/squirrel.mp4)
+
+
+[![travelers](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/travelers.png)](https://github.com/subin-kim-cv/SyncoS/assets/travelers.mp4)
+
+
+
+### Complex scene transitions
+[![chihuahua](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/chihuahua.png)](https://github.com/subin-kim-cv/SyncoS/assets/chihuahua.mp4)
+
+[![teddybear](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/teddybear.png)](https://github.com/subin-kim-cv/SyncoS/assets/teddybear.mp4)
