@@ -17,6 +17,7 @@
 
 ### Object motion control
 [![gorilla](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/gorilla.png)](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/gorilla.mp4)
+
 [![Jamaican](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/jamaican.png)](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/jamaican.mp4)
 
 
