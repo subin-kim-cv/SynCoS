@@ -24,7 +24,7 @@
 ### Cinematic effects
 [![figure](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/figure.png)](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/figure.mp4)
 
-[![apple](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/apple.png)](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/apple.mp4)
+[![apple](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/apple.png)](https://drive.google.com/file/d/1WRTUMpgny_0a3Nbcv4wvUu2pYiT_4awX/view?usp=drive_link)
 
 [![astronaut](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/images/astronaut.png)](https://github.com/subin-kim-cv/SynCoS/blob/main/assets/astronaut.mp4)
 
