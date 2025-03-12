@@ -6,8 +6,6 @@
 [Joon-Young Lee<sup>2</sup>](https://joonyoung-cv.github.io/), 
 [Jinwoo Shin<sup>1](https://alinlab.kaist.ac.kr/shin.html)**
 
-
-<br>
 <sup>1</sup>KAIST
 <sup>2</sup>Adobe Research
 
